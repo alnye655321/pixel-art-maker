@@ -1,5 +1,5 @@
 (function() {
-
+//test
   function changeEventListner(color){
     var classname = document.getElementsByClassName("pixel");
 
